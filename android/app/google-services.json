@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637325444678",
+    "project_id": "registrouniversidad-f0631",
+    "storage_bucket": "registrouniversidad-f0631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637325444678:android:29f50b12ba5d481beb2c47",
+        "android_client_info": {
+          "package_name": "com.example.test10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUmnQTD3fDpkVntBfeB3UB3eZjytp4GfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
